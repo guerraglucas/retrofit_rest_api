@@ -6,6 +6,8 @@ import 'services/data.dart';
 
 void main() {
   runApp(const MyApp());
+  // final decodedJson = jsonDecode('{"nome": "Bravo"}');
+  // print(decodedJson.toString());
 }
 
 class MyApp extends StatelessWidget {
